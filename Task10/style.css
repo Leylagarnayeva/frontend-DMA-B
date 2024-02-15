@@ -1,0 +1,49 @@
+header{
+
+    height: 50px;
+    background-color: rgba(109, 219, 10)
+}
+h1{
+    font-size: 60px;
+    font-weight: 600;
+}
+#wrapper {
+    max-width: 1120px;
+    width: 70%;
+    margin: auto;
+}
+a:link {
+    color: green;
+  }
+
+  body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto';
+  }
+    .h1,.h2,.h3,.h4{
+        color:000000ce;
+    }
+    h1{
+        font-size: 60px;
+        font-weight: 800;
+    }
+    h2{
+        font-size: 30;
+        font-weight: 700;
+    }
+    h3{
+       font-size: 60;
+       font-weight: 500;
+    }
+    h4{
+        font-size: 50;
+        font-weight:800 ;
+    }
+
+footer {
+    height: 100px;
+    background-color :#1ca3b4;
+}
+
+  }
