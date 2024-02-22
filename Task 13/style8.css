@@ -1,0 +1,21 @@
+h1{
+    color:blue;
+    text-align: center;
+    
+}
+body {
+    line-height: 1.7;
+    color: gray;
+    font-weight: 400;
+    font-size: 1rem;
+    margin-left: auto;
+ }
+
+img{
+    width: 300px;
+    height: 250px;
+}
+
+a{
+   color: #3a4971;
+}
