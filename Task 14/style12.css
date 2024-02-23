@@ -1,0 +1,35 @@
+header{
+    text-align: center;
+    font-size: 25px;
+}
+p{
+    color: #4D4D4D;
+    font-size: 20px;
+}
+
+.flex-container {
+    display: flex;
+    flex-direction: row;
+    flex-grow: auto;
+    padding: auto;
+    margin: top;
+    font-size: 30px;
+    justify-content: space-around;
+    flex-flow: row wrap;
+  }
+  body{
+    background: hwb(208 93% 0%);
+  }
+  
+  a{
+    font-size: 20px;
+  }
+  img{
+    padding: 10px;
+    margin: 10px;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+}
