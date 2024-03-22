@@ -33,7 +33,7 @@
 body {
   /* background-image: url("bg_1.jpg.webp");
   background-repeat: no-repeat; */
-  background-color: #3e9ff9;
+  /* background-color: #3e9ff9; */
   font-family: "Roboto", sans-serif;
   height: 100vh;
 }
@@ -162,10 +162,10 @@ section{
   place-content: center;
 } */
 
-.col-6 {
+/* .col-6 {
   background-color: white;
   overflow: hidden;
-}
+} */
 
 
 /* .item2 {
@@ -187,13 +187,13 @@ section{
   border: 5px solid transparent;
   border-top-color: ;
 } */
-
+/* 
 img{
   width: 40%;
   height: 30%;
   object-fit: cover;
   float: left;
-} 
+}  */
 .item3{
   position: relative;
 }
@@ -261,12 +261,13 @@ h1{
   background-color: rgb(170, 97, 238);
   color:white;
   position: absolute;
+  display: flex;
   z-index: 1;
   inset: 0;
   opacity: 0;
   transition: all .3s;
   text-align: center;
-  display: flex;
+
 
 }
 .porfolio-item:hover .porfolio-overlay {
@@ -284,8 +285,6 @@ h1{
   float: left;
 }  */
 
-
-.img{
+/* img{
   width: 100%;
-  height: auto;
-}
+}  */
