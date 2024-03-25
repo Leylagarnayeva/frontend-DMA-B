@@ -1,0 +1,75 @@
+header{
+    text-align: center;
+}
+
+h4{
+    color: blue;
+}
+
+h6{
+    color:#63636b;
+    text-align: center;
+}
+h5{
+    text-align: center;
+}
+ body{
+    font-family: "Istok Web", sans-serif;
+ }
+
+
+.flex-container{
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+    box-sizing: border-box;
+    display: flex;
+    padding: auto;
+    font-size: 25px;
+    justify-content: center;
+}
+.team-item img{
+    width: 100%;
+    height: 250px;
+}
+
+.button {
+    width: 250px;
+    background: linear-gradient(to right, #568ad3 0, #0f58bd 100%);
+    color: white;
+    padding: 13px;
+    border-radius: 6px;
+    -webkit-border-radius: 6px;
+    -moz-border-radius: 6px;
+    -ms-border-radius: 6px;
+    -o-border-radius: 6px;
+  }
+  .button i {
+    height: 21px;
+    width: 20px;
+    font-size: 20px;
+  }
+  .button:hover {
+    color: white;
+  }
+
+  .button-row {
+    display: flex;
+    justify-content: center;
+    margin-top: 55px;
+    margin-right: 20px;
+    text-align: center;
+  }
+  
+  a{
+    text-decoration: none;
+  }
+  .team-sosial-media{
+
+}
+.team-con{
+    position: relative;
+
+}
